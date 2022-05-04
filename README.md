@@ -1,5 +1,5 @@
 # caesar-cipher
-This system is made with OOC
+This system is made with OOP
 
 Download all the files and put it same directory
 
